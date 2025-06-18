@@ -1,0 +1,62 @@
+{
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "d0711511-9eef-452e-8bc8-3052dcc9cee7",
+        "name": "Charts",
+        "designId": "f20cdf03-4668-4cdb-9ee5-5f520f7ef19b",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "07cc0849-214b-4575-9732-61d2e857d018",
+        "name": "REST API",
+        "designId": "f20cdf03-4668-4cdb-9ee5-5f520f7ef19b",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "cd33cf33-e29f-4e8c-ac26-b997fe507ce7": {
+        "id": "d3b400d6-6376-423e-bdf4-bf77e3a81193",
+        "name": "Xano",
+        "designId": "f20cdf03-4668-4cdb-9ee5-5f520f7ef19b",
+        "pluginId": "cd33cf33-e29f-4e8c-ac26-b997fe507ce7",
+        "publicData": {
+            "domain": "xsky-8mbc-spul.n7c.xano.io"
+        }
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "3177b743-d9d2-44ec-bb13-cfcd808a19a4",
+        "name": "Date",
+        "designId": "f20cdf03-4668-4cdb-9ee5-5f520f7ef19b",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {
+            "favoriteFormat": "MMMM D, YYYY h:mm A"
+        }
+    },
+    "f5856798-485d-47be-b433-d43d771c64e1": {
+        "id": "329eaf08-404f-4259-8a30-afe4fbb151a0",
+        "name": "Xano Auth",
+        "designId": "f20cdf03-4668-4cdb-9ee5-5f520f7ef19b",
+        "pluginId": "f5856798-485d-47be-b433-d43d771c64e1",
+        "publicData": {
+            "roles": [
+                {
+                    "id": "292ac3d7-0245-4798-9315-83ba238c53d6",
+                    "name": "Super User",
+                    "createdAt": "2025-03-31T02:08:13.765Z"
+                }
+            ],
+            "roleKey": "role",
+            "roleType": "string",
+            "getMeEndpoint": "https://xudy-ecpd-spqf.n7.xano.io/api:ZYhWl5gH/auth/me",
+            "loginEndpoint": "https://xudy-ecpd-spqf.n7.xano.io/api:ZYhWl5gH/auth/login",
+            "signupEndpoint": "https://xudy-ecpd-spqf.n7.xano.io/api:ZYhWl5gH/auth/signup",
+            "afterNotSignInPageId": "99cac101-37d7-4590-a05b-74a7a4c70c6c"
+        }
+    },
+    "2adce8d5-2056-479d-a21a-068f55a8077f": {
+        "id": "55aa1c8f-89f8-4f8a-a33b-42611f9f4e53",
+        "name": "Mapbox",
+        "designId": "f20cdf03-4668-4cdb-9ee5-5f520f7ef19b",
+        "pluginId": "2adce8d5-2056-479d-a21a-068f55a8077f",
+        "publicData": {}
+    }
+}

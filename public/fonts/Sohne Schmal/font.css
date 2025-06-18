@@ -1,0 +1,48 @@
+
+@font-face {
+    font-family: 'Sohne Schmal';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(df261bdf-2748-465c-ae39-128bd5e5ee3f.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Schmal';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(13d85feb-c5ef-429e-a145-f66d8e6d6681.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Schmal';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(ae0292d5-4ef1-4d36-8914-2c0e991a7010.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Schmal';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(8962e0c9-da6c-4c68-ae0d-2a0322abe159.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Schmal';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(d2319374-0238-44b5-8418-f8c72400847b.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Schmal';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(f5add92a-53a4-4600-a14b-424be94b92a6.otf) format('truetype');
+}

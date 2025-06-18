@@ -1,0 +1,48 @@
+
+@font-face {
+    font-family: 'Sohne Breit';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(87faa716-a938-40de-ae4f-901574bf1694.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Breit';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(6064fd0a-8c2b-4696-b042-4959b63844ca.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Breit';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(f781f4d5-96b6-4e74-918b-b500c5f12194.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Breit';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(278d09c0-77af-4717-9a96-615333e61703.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Breit';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(77d71b3e-bff1-43c1-a681-0ecbcbc89e33.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Breit';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(0f26095c-4a89-4291-8cfd-e7d1790ba567.otf) format('truetype');
+}

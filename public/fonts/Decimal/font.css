@@ -1,0 +1,48 @@
+
+@font-face {
+    font-family: 'Decimal';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(1d2e120f-36bb-4862-81b7-1158ba557e54.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Decimal';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(a8c03b69-8cbe-43d9-8da7-618833711ae1.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Decimal';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(49e5081b-a07b-4ecc-9932-c55f5e7b2baf.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Decimal';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(323306af-68ed-47d1-b4e0-1375a7aaee34.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Decimal';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(78540d86-6e7f-4ca0-9041-c2f68ca50ea2.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Decimal';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(261fb651-ab9c-437b-b311-aa58b7f3e14c.ttf) format('truetype');
+}

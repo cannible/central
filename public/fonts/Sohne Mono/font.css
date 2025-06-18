@@ -1,0 +1,48 @@
+
+@font-face {
+    font-family: 'Sohne Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(1cd3077f-fa61-434f-8981-7b25bda4cba5.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Mono';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(bca9af6f-f3cd-4aac-9cf8-883ea513fcd9.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(18245fd7-0019-4e1d-99f2-68a010c27206.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Mono';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(589d58ba-3102-47a9-90d8-3b4afa1e048f.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Mono';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(2c2584f6-e608-41cf-9d2c-039c23256fac.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sohne Mono';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(0e8b98a1-e743-4811-8c66-15e7101e559a.otf) format('truetype');
+}

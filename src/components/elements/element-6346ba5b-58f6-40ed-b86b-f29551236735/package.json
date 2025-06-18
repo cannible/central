@@ -1,0 +1,1 @@
+{"name":"camera-capture","version":"1.0.3","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{}}
